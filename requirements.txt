@@ -1,7 +1,2 @@
-streamlit==0.61.0
-numpy
-pandas
-matplotlib
-sklearn
-seaborn
+streamlit==0.76.0
 
